@@ -1,0 +1,78 @@
+
+@font-face {
+    font-family: 'pricedownblack';
+    src: url('font/pricedown_bl-webfont.woff2') format('woff2'),
+         url('font/pricedown_bl-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
+body {
+	background-image:url(back.jpg);
+	background-repeat: no-repeat;
+}
+
+h1 {
+	font-family: pricedownblack;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+
+p {
+	font-family: pricedownblack;
+	font-weight: bold;
+	font-size: 60px;
+	text-align: center;
+	text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+
+form {
+	font-family: pricedownblack;
+	font-weight: bold;
+	font-size: 60px;
+	margin:auto;
+	text-align: center;
+	text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+
+table {
+	font-family: pricedownblack;
+	font-weight: bold;
+	font-size: 60px;
+	margin:auto;
+	text-align: center;
+	text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+	padding-top: 25px;
+	padding-bottom: 25px;
+	color: white;
+}
+
+option {
+	font-family: pricedownblack;
+	font-weight: bold;
+	font-size: 30px;
+	text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;
+	margin:auto;
+	text-align: center;
+	padding-top: 25px;
+	padding-bottom: 25px;
+}
+
+select {
+	
+	width: 190px;
+	padding: 10px 30px;
+}
